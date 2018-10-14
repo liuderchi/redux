@@ -5,6 +5,7 @@ import VisibleTodoList from '../containers/VisibleTodoList'
 
 const App = () => (
   <div>
+    CodeSandbox integrated with GitHub is awesome!
     <AddTodo />
     <VisibleTodoList />
     <Footer />
